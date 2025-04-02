@@ -1,0 +1,22 @@
+{
+  "name": "element-simple",
+  "version": "1.0.0",
+  "description": "A simple component library inspired by Element UI",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  },
+  "peerDependencies": {
+    "vue": "^3.3.4"
+  }
+} 
